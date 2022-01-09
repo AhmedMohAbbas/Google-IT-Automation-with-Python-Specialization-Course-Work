@@ -1,0 +1,1 @@
+1 * * * * . $HOME/.profile; python3 /home/{user-name}/health_check.py
